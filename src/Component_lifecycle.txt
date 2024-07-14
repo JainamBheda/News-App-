@@ -1,0 +1,11 @@
+render() method is used to render HTML of component react ....which is only used in class based component
+
+componentDidMount() runs after component output has been rendered to the componentDidMount
+
+Most of cases componentDidMount() is used when we fetch the api , ..etc
+
+if state is changed in component use componentDidUpdate()
+
+componentwillUnMount() is called before component is destroyed 
+
+constructor() runs before render()

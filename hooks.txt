@@ -1,0 +1,3 @@
+if we want feature of class based compoent in function based component we use Hooks
+
+It allows you to use state and other React feature without writing a class
